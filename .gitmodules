@@ -4,3 +4,6 @@
 [submodule "Prescription_FMOD"]
 	path = Prescription_FMOD
 	url = https://github.com/KimeraRoyal/Prescription_FMOD
+[submodule "FindTheMainCharacter"]
+	path = FindTheMainCharacter
+	url = https://github.com/KimeraRoyal/FindTheMainCharacter
