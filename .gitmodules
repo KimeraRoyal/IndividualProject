@@ -1,3 +1,6 @@
 [submodule "Prescription"]
 	path = Prescription
 	url = https://github.com/KimeraRoyal/Prescription
+[submodule "Prescription_FMOD"]
+	path = Prescription_FMOD
+	url = https://github.com/KimeraRoyal/Prescription_FMOD
