@@ -7,3 +7,6 @@
 [submodule "FindTheMainCharacter"]
 	path = FindTheMainCharacter
 	url = https://github.com/KimeraRoyal/FindTheMainCharacter
+[submodule "Dressup"]
+	path = Dressup
+	url = https://github.com/KimeraRoyal/Dressup
